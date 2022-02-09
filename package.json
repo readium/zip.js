@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Gildas Lormeau",
+    "email": "gildas.lormeau@gmail.com",
+    "url": "https://github.com/gildas-lormeau/"
+  },
+  "bugs": {
+    "url": "https://github.com/gildas-lormeau/zip.js/issues",
+    "email": "gildas.lormeau@gmail.com"
+  },
+  "dependencies": {},
+  "description": "A JavaScript library to zip and unzip files",
+  "devDependencies": {},
+  "homepage": "https://github.com/gildas-lormeau/zip.js",
+  "keywords": [
+    "zip unzip delate inflate"
+  ],
+  "licenses": [
+    {
+      "type": "BSD-3-Clause",
+      "url": "http://opensource.org/licenses/BSD-3-Clause"
+    }
+  ],
+  "name": "zip-js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gildas-lormeau/zip.js.git"
+  },
+  "scripts": {
+    "echo": "echo \"\"",
+    "env": "env"
+  },
+  "version": "0.0.1"
+}
